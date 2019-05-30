@@ -1,0 +1,302 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Featured Products First "
+"for WooCommerce\n"
+"POT-Creation-Date: "
+"2019-03-03 21:04+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Prashant "
+"Baldha <pmbaldha@gmail."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.2.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: includes/class-wff-admin.php:19
+#: includes/class-wff-admin.php:34
+msgid ""
+"Featured Product First "
+"For WooCommerce"
+msgstr ""
+
+#: includes/class-wff-admin.php:20
+#: includes/class-wff-admin.php:121
+#: includes/class-wff-admin.php:160
+msgid ""
+"Featured Product First"
+msgstr ""
+
+#: includes/class-wff-admin.php:38
+msgid ""
+"Track Emails for view "
+"and click by Email "
+"Tracker free wordpress "
+"plugin"
+msgstr ""
+
+#: includes/class-wff-admin.php:42
+msgid "Getting started"
+msgstr ""
+
+#: includes/class-wff-admin.php:47
+#, php-format
+msgid ""
+"To configure featured "
+"product first, Please %s "
+"click here%s (%sAdmin "
+"Dashboard > WooCommerce "
+"> Settings > Products"
+"%s). You will find "
+"screen as below:"
+msgstr ""
+
+#: includes/class-wff-admin.php:61
+msgid ""
+"Thank You for using "
+"Featured Product First "
+"For WooCommerce"
+msgstr ""
+
+#: includes/class-wff-admin.php:70
+#, php-format
+msgid ""
+"Free version of plugin "
+"displays featured "
+"product first on shop, "
+"archive and search page "
+"with woocommerce default "
+"sorting. If you would "
+"like to sorting "
+"everyewhere, Please "
+"%sUpgrade Now!%s"
+msgstr ""
+
+#: includes/class-wff-admin.php:77
+#, php-format
+msgid ""
+"%sPro version%s of "
+"plugin can display "
+"featured product first "
+"on any sorting order"
+msgstr ""
+
+#: includes/class-wff-admin.php:91
+#, php-format
+msgid ""
+"If you face any trouble, "
+"Please feel free to "
+"email me on %s any time. "
+"I am always happy to "
+"help you."
+msgstr ""
+
+#: includes/class-wff-admin.php:93
+#, php-format
+msgid ""
+"Please feel free to open "
+"support ticket on %s, If "
+"you found any issue."
+msgstr ""
+
+#: includes/class-wff-admin.php:93
+msgid "Support Forum"
+msgstr ""
+
+#: includes/class-wff-admin.php:107
+#, php-format
+msgid ""
+"Free \"Featured Product "
+"First for Woocommerce\" "
+"Plugin displays feaured "
+"products first with "
+"Default sorting (custom "
+"ordering + name). <br/"
+">Pro version  Plugin "
+"displays feaured "
+"products first with any "
+"sorting order. To take "
+"benifits of this "
+"feature, Please "
+"%sUpgrade Now%s."
+msgstr ""
+
+#: includes/class-wff-admin.php:158
+#, php-format
+msgid ""
+"Pro version feature!! To "
+"use this feature, Please "
+"%sUpgrade Now%s."
+msgstr ""
+
+#: includes/class-wff-admin.php:166
+msgid ""
+"Enable Featured Products "
+"First Everywhere"
+msgstr ""
+
+#: includes/class-wff-admin.php:167
+msgid ""
+"If you will tick this "
+"option, The featured "
+"product will be "
+"displayed first "
+"everywhere. There are "
+"not needs to configure "
+"any other option, so "
+"other options related "
+"featured product are "
+"hidden when you tick "
+"this option."
+msgstr ""
+
+#: includes/class-wff-admin.php:167
+msgid ""
+"We highly recommended to "
+"tick this checkbox"
+msgstr ""
+
+#: includes/class-wff-admin.php:174
+#: includes/class-wff-admin.php:182
+#: includes/class-wff-admin.php:190
+#: includes/class-wff-admin.php:198
+msgid ""
+"Enable Featured Products "
+"First on Page"
+msgstr ""
+
+#: includes/class-wff-admin.php:175
+msgid "Shop Page"
+msgstr ""
+
+#: includes/class-wff-admin.php:183
+msgid "Product Search"
+msgstr ""
+
+#: includes/class-wff-admin.php:191
+msgid ""
+"Enable Featured Products "
+"First on Archive Product "
+"Category"
+msgstr ""
+
+#: includes/class-wff-admin.php:199
+msgid ""
+"Admin Dashboard Product "
+"Listing"
+msgstr ""
+
+#: includes/class-wff-admin.php:217
+msgid ""
+"Enable Featured Products "
+"First Order on Sorting "
+"Order"
+msgstr ""
+
+#: includes/class-wff-admin.php:227
+msgid ""
+"Put No. of featured "
+"product first"
+msgstr ""
+
+#: includes/class-wff-admin.php:228
+msgid ""
+"0 = Unlimited, otherwise "
+"Specify any number more "
+"than 0"
+msgstr ""
+
+#: includes/class-wff.php:30
+msgid ""
+"Default sorting (custom "
+"ordering + name)"
+msgstr ""
+
+#: includes/class-wff.php:31
+msgid "Popularity (sales)"
+msgstr ""
+
+#: includes/class-wff.php:32
+msgid "Average rating"
+msgstr ""
+
+#: includes/class-wff.php:33
+msgid "Sort by most recent"
+msgstr ""
+
+#: includes/class-wff.php:34
+msgid "Sort by price (asc)"
+msgstr ""
+
+#: includes/class-wff.php:35
+msgid ""
+"Sort by price (desc)"
+msgstr ""
+
+#: includes/class-wff.php:69
+msgid "Settings"
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:23
+msgid ""
+"Display a list of "
+"fetaured products."
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:25
+msgid ""
+"WooCommerce Fetured "
+"Product"
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:29
+msgid "Featured Products"
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:30
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:38
+msgid ""
+"Number of products to "
+"show"
+msgstr ""
